@@ -1,6 +1,6 @@
 ## JBL Landing Page UI Design
 
-[![JBL DEMO](https://api.netlify.com/api/v1/badges/6b230bd9-d8c0-4a06-868d-ccf81383cc7d/deploy-status)](https://app.netlify.com/sites/jblresponsivo/deploys)
+[Demo JBL](https://jblresponsivo.netlify.app/)
 <a href=""></a>
 <div align="left">
   <img height="500em" src="./projetopng/printsup.png"/>
